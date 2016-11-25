@@ -157,7 +157,7 @@ input, select {
 }
 
 strong, b {
-    font-weight: bold; 
+    font-weight: bold;
 }
 pre {
     white-space: pre;
@@ -325,7 +325,7 @@ footer {
 /* Logo */
 header hgroup {
     position: absolute;
-    background: url(../images/logo.png) no-repeat;
+    /*background: url(../images/logo.png) no-repeat;*/
     height: 31px;
     width: 312px;
     display: block;
